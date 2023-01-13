@@ -29,3 +29,5 @@ command = "farm"
 
 This plugin only works on Velocity proxies!  
 There is currently no check whether a command has already been registered or not.
+
+To reload the configuration while the server is running, you can use the ```/serswi reload``` command.
